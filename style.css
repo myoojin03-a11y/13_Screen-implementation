@@ -105,6 +105,18 @@ ol {
   color: royalblue;
 }
 
+.filter_count{
+  margin: 10px 0;
+  
+  font-size: 16px;
+  font-weight: 600;
+  color: #4E4E4E;
+}
+
+.filter_count .count{
+  padding-left: 5px;
+}
+
 .card_list {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
